@@ -1,0 +1,7 @@
+platform :ios, '5.0'
+# platform :osx, '10.7'
+pod 'RestKit', '~>  0.20.0'
+#pod 'TransformerKit', '~> 0.2.0'
+#pod 'AFNetworking', '~> 1.2.0'
+#pod 'SVHTTPRequest', '~> 0.5.0'
+pod 'JSONKit', '~> 1.4.0'
